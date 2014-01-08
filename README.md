@@ -13,6 +13,6 @@ step:
 
 <p>
 Demo
-<p align="center"><img src="http://github.com/flemington/IOS7Button/blob/master/IOS7ButtonDemo.png"/></p>
+![ios7buttondemo](https://f.cloud.github.com/assets/2181842/1864712/a4876062-77fa-11e3-9cec-248d085dd8b5.png)
 
 </p>
