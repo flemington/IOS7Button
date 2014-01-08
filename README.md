@@ -14,6 +14,6 @@ step:
 <p>
 Demo
 
-![alt text](https://github.com/flemington/IOS7Button/blob/master/IOS7ButtonDemo.png "Title")
+![alt tag](https://github.com/flemington/IOS7Button/blob/master/IOS7ButtonDemo.png)
 
 </p>
