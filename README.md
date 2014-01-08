@@ -13,7 +13,6 @@ step:
 
 <p>
 Demo
-
-![alt tag](https://github.com/flemington/IOS7Button/blob/master/IOS7ButtonDemo.png)
+<p align="center"><img src="http://github.com/flemington/IOS7Button/blob/master/IOS7ButtonDemo.png"/></p>
 
 </p>
